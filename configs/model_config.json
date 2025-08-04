@@ -1,0 +1,19 @@
+{
+  "model_params": {
+    "vocab_size": 65,
+    "d_model": 384,
+    "n_layer": 6,
+    "n_head": 6,
+    "d_ff": 1536,
+    "block_size": 256,
+    "dropout": 0.2
+  },
+  "training_params": {
+    "learning_rate": 3e-4,
+    "batch_size": 64,
+    "max_iters": 5000,
+    "eval_interval": 500,
+    "eval_iters": 200
+  },
+  "data_path": "data/tinyshakespeare.txt"
+}
