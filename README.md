@@ -5,8 +5,7 @@ Slide 1 / 10: Title Slide
 <h1>📜 Shakespeare_Bot 🤖</h1>
 <p><em>A "From-Scratch" AI Text Generator that Learns the Style of the Bard</em></p>
 <br>
-<p><strong>Created with Gemini</strong></p>
-<p>August 4, 2025</p>
+
 </div>
 
 <br>
